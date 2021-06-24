@@ -1,0 +1,1 @@
+CD into the same folder as the repo and use `node App.js`
